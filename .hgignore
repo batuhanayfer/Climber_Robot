@@ -1,0 +1,4 @@
+^BUILD$
+^.mbed$
+^PM2_Libary$
+^mbed-os$
